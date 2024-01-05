@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Content/ParagonRampage/Characters/Global/MaterialLayers/Wood/T_TreeBark_D.uasset
 Content/ParagonRampage/Characters/Global/MaterialLayers/Wood/T_TreeBark_N.uasset
+Content/KiteDemo/Environments/Cliffs/Cliff01/T_Cliff01_D_CC_R.uasset
+Content/KiteDemo/Environments/Cliffs/Cliff01/T_Cliff01_N.uasset
